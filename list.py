@@ -38,3 +38,8 @@ n = [1, 2, 3]
 x = [a, n]
 print(x)
 print(x[1][1])
+
+country=['India','Pak',2]
+print(country)
+print(country[:])
+print(country[-2:])
