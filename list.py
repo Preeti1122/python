@@ -43,3 +43,28 @@ country=['India','Pak',2]
 print(country)
 print(country[:])
 print(country[-2:])
+
+
+
+list=[0,1,2,3,4,5,6,7,8,9]
+
+'''if list[0]==0:
+    print("This no is zero.")
+elif list[1]==1:
+    print("This is One.")
+'''
+'''print(range(10))
+for i in range(10):
+    print(i)
+    
+for i in list:
+    print(i)
+    '''
+
+
+############list of words#####
+
+'''name="Hi I m Priti."
+for i in name:
+    print(i)
+    '''
