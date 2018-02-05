@@ -1,3 +1,4 @@
+# print the no is even or odd.
 def even_odd(n):
      if n%2==0:
          print("Even Number.")
